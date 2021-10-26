@@ -19,7 +19,7 @@
 
 ## ✉ &nbsp;Find me at
 
-<a href="https://linkedin.com/in/joao-fusco" target="_blank">
+<a href="https://linkedin.com/in/joaofusco" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-João_Fusco-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="mailto:<jpmfusco@gmail.com>" alt="gmail" target="_blank">
