@@ -13,7 +13,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JPFusco&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=issues,contribs,prs" alt="fusco's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JPFusco&count_private=true&show_icons=true&theme=vision-friendly-dark&hide=issues,contribs" alt="fusco's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPFusco&layout=compact&theme=vision-friendly-dark" alt="fusco's most used languages"/>
 </p>
 
