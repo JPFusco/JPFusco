@@ -27,6 +27,7 @@
 </a>
 <a href="mailto:<jpmfusco@gmail.com>" target="_blank">
   <img 
+       align="center"
        src="https://img.shields.io/badge/-jpmfusco@gmail.com-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white"
        alt="gmail" 
   />
