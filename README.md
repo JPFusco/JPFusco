@@ -1,9 +1,10 @@
 <h1 align="left"> Hi, I'm João Fusco</h1>
 
-- 📘 I'm currently studying Fullstack Development at Cubos Academy
+- I'm currently working at Topaz
 
 ## 🛠 &nbsp;Tech Stack
 
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -24,8 +25,9 @@
 <a href="https://linkedin.com/in/joaofusco" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-João_Fusco-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="mailto:<jpmfusco@gmail.com>" alt="gmail" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-jpmfusco@gmail.com-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<jpmfusco@gmail.com>" />
+<a href="mailto:<jpmfusco@gmail.com>" target="_blank">
+  <img 
+       src="https://img.shields.io/badge/-jpmfusco@gmail.com-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white"
+       alt="gmail" 
+  />
 </a>
-
-
